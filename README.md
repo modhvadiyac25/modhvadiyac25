@@ -1,5 +1,5 @@
 ### Hi there, I am Chetan 👋
-📫 How to reach me: Email : modhvadiyac25@gmail.com
+📫 How to reach me: modhvadiyac25@gmail.com
 <!--
 **modhvadiyac25/modhvadiyac25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
